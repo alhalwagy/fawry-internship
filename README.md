@@ -3,10 +3,10 @@
 ## About
 
 - This repository contains _**Fawry**_ Internship **tasks and resources** that I have completed as part of my internship to learn full-stack engineering using tools **Spring Boot and Angular**.
-
--
-
-- ![build](https://github.com/alhalwagy/fawry-internship/assets/WhatsApp%20Image%202024-05-29%20at%2014.41.52_d62228cb.jpg)
+<details>
+    <summary> Onsite intern in amazing branch at Smart Village </summary>
+    <img style=" margin: 5px 20px; max-height:500px; width:70%; max-width: 800px;"  alt="Fawry building" src="https://res.cloudinary.com/dn8uzktjz/image/upload/v1716984522/emrcoivkjritjfxiekwn.jpg">
+</details>
 
 ---
 
