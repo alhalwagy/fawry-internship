@@ -24,10 +24,20 @@
 > [!TIP]
 > **JavaEE** is all about maven and servlets and jsp within sessions records and pdfs.
 
+
+
+
 ## Resources
 
 - ### Eng/ Hany [Session](https://drive.google.com/drive/folders/1kpJHiPO1rk5zV-1dmQokr7JDSadsUUxA) & [Slides](https://drive.google.com/drive/folders/1kpJHiPO1rk5zV-1dmQokr7JDSadsUUxA) 
 
+
+# Unit Testing (JUnit)
+
+### Eng/ Hany [Session](https://drive.google.com/drive/folders/13b4B39NfdxEAQecxPLa-ERb4a3z4IeGq) & [Slides](https://drive.google.com/drive/folders/13b4B39NfdxEAQecxPLa-ERb4a3z4IeGq) 
+
+
 ## Tasks
 
 1. [E-Commerce](javaee/ecommerce-servlet&jsp)
+2. [Store-Manager](unit-testing/store-manager)
