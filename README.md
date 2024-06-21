@@ -14,7 +14,7 @@
 
 - [Week1](./week01/) : OOP, Collections, Git Version Control, Java 8 Features and Functional Programming in Java.
 - [Week2](./week02/) : Restful API, HTTP, Maven, JavaEE(Servlets and JSP), Unit Testing, JUnit.
-
+- [week3](./week03/) :Database concepts, SQL, Programming paradigms, Agile Scrum master.
 ---
 
 ## Contact
